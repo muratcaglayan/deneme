@@ -1,4 +1,2 @@
-deneme
-======
-
-Bu bir Github denemesidir
+deneme2
+=======
